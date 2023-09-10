@@ -1,4 +1,3 @@
-from src import vanir
 from cli import menu, tools
 
 

@@ -1,6 +1,7 @@
-from cli.tools import print_banner
 from time import sleep
 from typing import Callable
+
+from cli.tools import print_banner
 
 
 def default():
